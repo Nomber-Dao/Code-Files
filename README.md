@@ -1,1 +1,3 @@
-# Code-Files
+NOMBER DAO is an (Ai) innovative decentralized finance (DeFi) project built on the Sui blockchain, offering a unique staking and farming protocol designed to maximize user rewards.
+NOMBER’s goal is to provide sustainable growth for its ecosystem by creating an ecosystem that combines innovative tokenomics, staking incentives, and yield farming mechanics to provide value for all participants in a transparent and secure manner.
+The project focuses on harnessing the strengths of the Sui blockchain, which offers high throughput, low transaction fees, and scalability. By utilizing these features, NOMBER aims to revolutionize how DeFi staking and farming protocols are structured, enabling users to earn rewards while maintaining a secure and decentralized environment.
